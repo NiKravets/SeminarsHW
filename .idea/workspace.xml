@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1dd030a-eaa1-4c0c-a2cc-4d3294967ef4" name="Changes" comment="1HWjava">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    <list default="true" id="d1dd030a-eaa1-4c0c-a2cc-4d3294967ef4" name="Changes" comment="update ignore">
+      <change afterPath="$PROJECT_DIR$/src/HW2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW2_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,14 +31,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Marshaque/IdeaProjects/SeminarsHW"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Marshaque/IdeaProjects/SeminarsHW&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.HW2_2">
     <configuration name="HW1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HW1" />
       <module name="SeminarsHW" />
@@ -44,8 +46,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HW2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW2" />
+      <module name="SeminarsHW" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW2_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW2_2" />
+      <module name="SeminarsHW" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HW2_2" />
+        <item itemvalue="Application.HW2" />
         <item itemvalue="Application.HW1" />
       </list>
     </recent_temporary>
@@ -66,7 +84,21 @@
       <option name="project" value="LOCAL" />
       <updated>1660332446812</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update ignore">
+      <created>1660333130723</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660333130723</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update ignore">
+      <created>1660333147828</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660333147828</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,6 +119,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1HWjava" />
-    <option name="LAST_COMMIT_MESSAGE" value="1HWjava" />
+    <MESSAGE value="update ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="update ignore" />
   </component>
 </project>
